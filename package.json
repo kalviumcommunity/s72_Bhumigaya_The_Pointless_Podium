@@ -1,0 +1,15 @@
+{
+  "name": "s72_bhumigaya_the_pointless_podium",
+  "version": "1.0.0",
+  "description": "A quirky platform that celebrates hilariously useless skills! \"Pointless Podium\" allows users to submit, vote on, and comment on bizarre talents, making it a fun way to showcase full-stack MERN development skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
